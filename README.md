@@ -1,60 +1,64 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=230&section=header&text=Cahyo%20Saputra&fontSize=58&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%20Software%20Engineer%20%7C%20Indonesia&descSize=20&descColor=39ff14&descAlignY=58)
+
 <div align="center">
 
-# Hi there, I'm Cahyo Saputra 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=680&lines=%24+whoami+%3E+cahyo988;Software+Engineer+%7C+Builder+%7C+Hacker+Mindset;Telegram+Bots+%7C+Web+Apps+%7C+Games;Build+in+public.+Ship+fast.+Fix+fast.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+real+products%2C+not+just+code;Telegram+Bots+%7C+Web+Apps+%7C+Games;Indonesian+builder+%F0%9F%87%AE%F0%9F%87%A9)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/cahyo988?style=flat-square&logo=github&color=58A6FF)](https://github.com/cahyo988?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/cahyo988?style=flat-square&logo=github&color=F2C94C)](https://github.com/cahyo988?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=cahyo988&style=flat-square&color=58A6FF)](https://github.com/cahyo988)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cahyo_Saputra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cahyo-saputra24/)
+![Profile views](https://komarev.com/ghpvc/?username=cahyo988&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/cahyo988?style=for-the-badge&logo=github&color=0d1117&logoColor=00ff41&labelColor=0d1117)](https://github.com/cahyo988?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cahyo_Saputra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cahyo-saputra24/)
 
 </div>
 
----
+```bash
+$ whoami
+cahyo988 — Cahyo Saputra
 
-## 🚀 About Me
+$ cat about.txt
+Software Engineer from Indonesia.
+I build things people actually use —
+Telegram bots, web apps, and games.
 
-Software Engineer from Indonesia. I like building things people actually use — from Telegram bots and web apps to games.
+$ ls ./now
+Duevent/  OTP-BANG/  Dolphin-Swim-Club/  CZEE-Studio/
 
-- 🔭 Currently building **Duevent** — wedding invitation builder — and **OTP BANG**, a Telegram bot for virtual numbers
-- 🛠️ Also working on **Dolphin Swim Club** and **CZEE Studio** (Roblox game studio)
-- 💡 I learn by shipping: 73 repos and counting
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/cahyo-saputra24/)
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+$ echo $MISSION
+"Build in public. Ship fast. Fix fast."
+```
 
 ---
 
-## 🔥 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=js,ts,php,py,kotlin,react,nextjs,nodejs,docker,mysql,postgres,html,css,linux,git&theme=dark)
+
+</div>
+
+```text
+Languages   :: JavaScript  TypeScript  PHP  Python  Kotlin
+Frontend    :: React  Next.js  HTML  CSS
+Backend     :: Node.js  Laravel-ish  Telegram Bot API
+Infra       :: Docker  VPS  Linux  Tailscale  Cloudflare
+Data        :: MySQL  PostgreSQL
+```
+
+---
+
+## <img src="https://media.giphy.com/media/QNFhOolVeCzPWuOhX6a/giphy.gif" width="28"> Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [CLI-Kanban](https://github.com/cahyo988/CLI-Kanban) | Kanban board in the terminal | JavaScript |
-| [StreaMax](https://github.com/cahyo988/StreaMax) | Streaming app | TypeScript |
-| [new-porto-react](https://github.com/cahyo988/new-porto-react) | Personal portfolio | JavaScript / React |
-| [MPlayer](https://github.com/cahyo988/MPlayer) | Music player app | Kotlin |
+| [CLI-Kanban](https://github.com/cahyo988/CLI-Kanban) | Kanban board in the terminal | `JavaScript` |
+| [StreaMax](https://github.com/cahyo988/StreaMax) | Streaming app | `TypeScript` |
+| [new-porto-react](https://github.com/cahyo988/new-porto-react) | Personal portfolio | `React` |
+| [MPlayer](https://github.com/cahyo988/MPlayer) | Music player app | `Kotlin` |
 | [catat-uang](https://github.com/cahyo988/catat-uang) | Money tracker | — |
-| [BisnisPanel](https://github.com/cahyo988/BisnisPanel) | Business panel | PHP |
-| [Cahyopedia](https://github.com/cahyo988/Cahyopedia) | Marketplace UI slicing | JavaScript |
+| [BisnisPanel](https://github.com/cahyo988/BisnisPanel) | Business panel | `PHP` |
+| [Cahyopedia](https://github.com/cahyo988/Cahyopedia) | Marketplace UI slicing | `JavaScript` |
 
-### 🌟 What I'm building now
+### `> ./building_now`
 
 - 💍 **[Duevent](https://duevent.id/)** — platform undangan pernikahan digital. Launching 25 Nov 2026.
 - 🤖 **OTP BANG** — Telegram bot jual nomor virtual, dengan payment gateway QRIS sendiri.
@@ -63,15 +67,19 @@ Software Engineer from Indonesia. I like building things people actually use —
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0Z7W/giphy.gif" width="28"> Stats — `neon mode: ON`
 
 <div align="center">
 
-![Cahyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahyo988&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=cahyo988&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&ring_color=00ff41&hide_border=false&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyo988&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyo988&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cahyo988&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cahyo988&theme=dark&hide_border=false&border=00FF41&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=8B949E)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cahyo988&bg_color=0d1117&color=39ff14&line=00ff41&point=00ff41&area=true&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=cahyo988&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
 
 </div>
 
@@ -79,8 +87,13 @@ Software Engineer from Indonesia. I like building things people actually use —
 
 <div align="center">
 
-> "Build in public. Ship fast. Fix fast."
+```bash
+$ exit
+# thanks for visiting — star a repo if you like it ⭐
+```
 
 ⭐️ From [cahyo988](https://github.com/cahyo988)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=120&section=footer)
